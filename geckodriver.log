@@ -1,0 +1,8 @@
+1595109958059	Marionette	INFO	Listening on port 44073
+1595109958112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1595109987467	Marionette	INFO	Stopped listening on port 44073
+1595627123494	Marionette	INFO	Listening on port 40351
+1595627123537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1595627139467	Marionette	INFO	Stopped listening on port 40351
